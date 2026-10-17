@@ -1,0 +1,74 @@
+{
+  "version": 2,
+  "template_version": "3a528c553883e59d7cfa",
+  "page_size": 20,
+  "site_id": "47aeacc80ef6ef7d1d432f37",
+  "owner": "rtparg",
+  "repo": "page-af1933b1748f010de8bd840a",
+  "title": "云海",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "af1933b1748f010de8bd840a",
+      "a": "云海",
+      "b": "",
+      "entity": "云海",
+      "brand": "云海",
+      "separator": "",
+      "path": "index.html",
+      "hash": "37adb207d94b89ee3b8da3d1a285a760f0868d1088b8abaf8d154343b5922b01",
+      "content": {
+        "keyword1": "云海",
+        "keyword2": "",
+        "primary_entity": "云海",
+        "plans": [],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "云海提供稳定高速的节点代理服务。无论基础流量还是多人在线，云海都能让你连接更快更稳。",
+          "AI_DESCRIPTION": "云海提供稳定高速的节点代理服务。无论基础流量还是多人在线，云海都能让你连接更快更稳。"
+        },
+        "_brand_page": {
+          "version": 3,
+          "body": "<main><style>\nbody{margin:0;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Helvetica Neue,Arial,sans-serif;background:#111;color:#eee;line-height:1.6}\nheader{background:#111;border-bottom:1px solid #222;position:sticky;top:0;z-index:10}\nnav{display:flex;justify-content:center;gap:2rem;padding:1rem 0;font-size:.9rem}\nnav a{color:#0f0;text-decoration:none}\nnav a:hover{color:#0ff}\n.hero{height:100vh;display:flex;align-items:center;justify-content:center;text-align:center;background:#111;position:relative;overflow:hidden}\n.hero::after{content:\"\";position:absolute;inset:0;background:radial-gradient(circle at center,#0f0 0%,transparent 70%);opacity:.03;pointer-events:none}\n.hero-content{max-width:800px;padding:0 2rem}\n.hero-content h1{font-size:clamp(2.5rem,8vw,5rem);font-weight:700;letter-spacing:-2px;margin-bottom:1rem;color:#0f0}\n.hero-content p{font-size:1.25rem;max-width:700px;margin:0 auto;margin-bottom:2rem}\nsection{padding:4rem 2rem;max-width:1200px;margin:0 auto}\n#plans table{width:100%;border-collapse:collapse;margin-bottom:3rem}\n#plans th, #plans td{padding:1.5rem;text-align:left;border-bottom:1px solid #222}\n#plans th{background:#1a1a1a}\n#plans td{font-size:1rem}\n#plans .price{font-size:1.8rem;font-weight:700;color:#0f0}\n#faq{display:grid;grid-template-columns:1fr 1fr;gap:2rem}\n#faq .faq-item{background:#1a1a1a;padding:2rem;border-radius:16px;box-shadow:0 8px 32px rgba(0,255,0,.05)}\n#faq h3{margin:0 0 .75rem;font-size:1.25rem;color:#0f0}\n#faq p{margin:0}\nfooter{padding:3rem;text-align:center;font-size:.9rem;color:#666}\n</style><header>\n<nav>\n<a href=\"#plans\">套餐</a>\n<a href=\"#faq\">常见问题</a>\n</nav>\n</header>\n<section class=\"hero\">\n<div class=\"hero-content\">\n<h1>云海</h1>\n<p>连接的速度从不该是瓶颈。云海的节点池每天都在实时检测线路。普通用户只需选择基础套餐，就能获得每秒百兆的稳定流量。需要多人同时在线时，旗舰版直接解锁全节点原生流媒体。企业团队则选择团队版，获得专属高带宽和定制路由。云海从来不做承诺式营销。它只把真实速度放在台面上。</p>\n<p>无论在家办公还是外出差旅，云海的加速始终保持在一侧。流量用量清晰可见，设备连接数严格控制。每一笔数据都经过优化，不再有莫名的延迟。选择云海，就是选择让网络服从你的节奏。</p>\n</div>\n</section>\n<section id=\"plans\">\n<h2>三款套餐，快速对比</h2>\n<table>\n<thead>\n<tr>\n<th>套餐</th>\n<th>价格</th>\n<th>年付优惠</th>\n<th>核心权益</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>基础版</td>\n<td class=\"price\">¥15/月</td>\n<td>¥150/年</td>\n<td>每月100GB流量<br>3台设备在线<br>基础流媒体解锁</td>\n</tr>\n<tr>\n<td>旗舰版</td>\n<td class=\"price\">¥35/月</td>\n<td>¥350/年</td>\n<td>每月300GB流量<br>5台设备在线<br>全节点流媒体解锁<br>游戏专线加速</td>\n</tr>\n<tr>\n<td>团队版</td>\n<td class=\"price\">¥85/月</td>\n<td>¥850/年</td>\n<td>每月1000GB流量<br>20台设备在线<br>VIP高带宽节点<br>企业定制路由</td>\n</tr>\n</tbody>\n</table>\n</section>\n<section id=\"faq\">\n<div class=\"faq-item\">\n<h3>云海是什么？</h3>\n<p>云海是一款稳定高速的节点代理服务。提供流量统计、设备管理与线路优化的完整解决方案。</p>\n</div>\n<div class=\"faq-item\">\n<h3>如何使用？</h3>\n<p>注册后直接选择套餐，下载客户端或浏览器插件，输入节点即可连接。操作全程简单。</p>\n</div>\n<div class=\"faq-item\">\n<h3>支持哪些设备？</h3>\n<p>基础版支持3台，旗舰版支持5台，团队版支持20台。全部兼容Windows、macOS、iOS及Android。</p>\n</div>\n<div class=\"faq-item\">\n<h3>隐私安全吗？</h3>\n<p>云海不记录连接日志，所有流量走加密通道。企业版提供额外定制路由保护。</p>\n</div>\n<div class=\"faq-item\">\n<h3>套餐可以随时升级吗？</h3>\n<p>可以。升级后按新套餐剩余金额扣除，无需等待。年付用户升级时按比例退款。</p>\n</div>\n</section></main>",
+          "hash": "0488060b5f9e0f51260928e023e18389cf6cd8dace5df2b334e4cf19c0c256f4",
+          "seo": {
+            "title": "云海 | 高速节点代理",
+            "keywords": "云海,节点代理,高速加速,VPN,代理服务",
+            "description": "云海提供稳定高速的节点代理服务。无论基础流量还是多人在线，云海都能让你连接更快更稳。"
+          },
+          "provider": "grok",
+          "model": "grok-4.6",
+          "design": {
+            "no": "5900",
+            "hero": "5 长文叙事开篇，像专栏文章",
+            "palette": "1 墨黑配荧光绿",
+            "nav": "3 首屏内嵌锚点标签",
+            "card": "3 大圆角软阴影",
+            "plans_view": "1 横向对比表格",
+            "faq_view": "1 双栏问答",
+            "tone": "3 简洁利落的短句",
+            "order": "首屏优先，其余区块由 AI 根据已选构图和信息关系安排"
+          }
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "y7lgh34.cn",
+    "host": "p-da4e909642.y7lgh34.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804",
+    "prefix_mode": "auto"
+  },
+  "friendlinks": [],
+  "file_hashes": {
+    "index.html": "d924d1fe3c70704dcf550c9f826f0e0ad8f3fa7063bbe5ee2e2f31f090865083",
+    "sitemap.xml": "9b2a32328a3803e59cf28ade15b8af3e0ad73a925f5780875f926d3393e0dcc3",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "0f283b20c17e0939f5afd676a6a60803a3be29815bb0e1049384e5ea84b62982",
+    "robots.txt": "534a395c172b9606c89c1172778e2a090b23ee7d4cf32c58ff4bc502eee363b5",
+    "b0fcbbff6766709b5df35c5fc8f57b1d.txt": "ece4b07521e91ebf2d0a4340535615b2a3c1ecfc47050e88bd4831f9711f4830"
+  },
+  "revision": "9184c739aa23f249e232b3a331d058b68d0ce189561a291f2c45cac9fa8772d5"
+}
